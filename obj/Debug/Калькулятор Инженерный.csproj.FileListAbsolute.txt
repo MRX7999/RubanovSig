@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Калькулятор Инженерный\obj\Debug\Калькулятор Инженерный.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Калькулятор Инженерный\obj\Debug\Калькулятор_Инженерный.Form1.resources
+C:\Users\User\Desktop\Калькулятор Инженерный\obj\Debug\Калькулятор_Инженерный.Properties.Resources.resources
+C:\Users\User\Desktop\Калькулятор Инженерный\obj\Debug\Калькулятор Инженерный.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Калькулятор Инженерный\bin\Debug\Калькулятор Инженерный.exe.config
+C:\Users\User\Desktop\Калькулятор Инженерный\bin\Debug\Калькулятор Инженерный.exe
+C:\Users\User\Desktop\Калькулятор Инженерный\bin\Debug\Калькулятор Инженерный.pdb
+C:\Users\User\Desktop\Калькулятор Инженерный\obj\Debug\Калькулятор Инженерный.exe
+C:\Users\User\Desktop\Калькулятор Инженерный\obj\Debug\Калькулятор Инженерный.pdb
